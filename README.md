@@ -12,7 +12,10 @@
 ## Results
 
 #### Money Multiplier for Australian Open 2021 - *1.18*
+#### Win% for Australian Open 2021 - *46.5%*
+
 #### Money Multiplier for Rolland Garros 2021 - *2.05*
+#### Win % for Rolland Garros 2021 - *54.3%*
 
 ### ------------------------------- Money In Hand Across RG-2021 ----------------------------------
 <img src="https://user-images.githubusercontent.com/54732254/128619656-a4350473-0469-42ce-a7ad-105e97afd2d7.png" width="750" height="500">
